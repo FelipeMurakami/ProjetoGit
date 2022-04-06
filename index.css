@@ -1,0 +1,9 @@
+html, body, main, header, div, p, a, h1, h2, ul, nav, section, img, figure{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    text-decoration: none;
+    box-sizing: border-box;
+  }
